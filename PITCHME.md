@@ -61,7 +61,7 @@ Complexity has phase boundaries
 "... because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don't know we don't know."
 
     (Donald Rumsfeld)
-    
+
 ---
 
 # When stuff is obvious or well understood
@@ -160,3 +160,9 @@ or we can try to move the problem into another type of complexity
  - Experts can help you but ...
  - ... sometimes experiments can be better 
  - Your Scrum Masters are experts in this stuff
+
+ ---
+  
+  # Need moar ?
+
+  - Sense making & Cynefin 
