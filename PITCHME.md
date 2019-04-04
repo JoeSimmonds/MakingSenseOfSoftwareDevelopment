@@ -5,9 +5,10 @@
 ---
 
 ### Build the right thing 
-# &
-### Build it right
 
+# &
+
+### Build it right
 
 ---
 # One person can build software quickly
@@ -103,6 +104,8 @@ We will tend to interpret things as being in that zone.
 
     It's a TRAP!
 
+Notes:
+ - insert mental image of Admiral Ackbar here :)
 ---
 
 Things can move or be moved between the different types of complexity
