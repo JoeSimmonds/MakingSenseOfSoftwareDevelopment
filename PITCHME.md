@@ -48,7 +48,7 @@ Note:
 
 ---
 
-# It would all be fine if it wasn't for all of these pesky developers
+# It would be fine if it wasn't for all of these pesky developers
 
 ---
 
