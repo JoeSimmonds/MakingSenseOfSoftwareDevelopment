@@ -107,7 +107,9 @@ We all have a home, where we feel most comfortable.
 --
 
 # When things are just weird
-Intuition based
+### Intuition based
+ - Act
+ - Check
 
 ---
 
