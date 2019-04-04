@@ -52,16 +52,16 @@ Note:
 
 ---
 
-"... because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don't know we don't know."
-    (Donald Rumsfeld)
+Complexity emerges in social activities as the number of variable factors goes up.
 
+Complexity has phase boundaries
 
 ---
 
-Complexity emerges in social activities as the number of variable factors goes up.
+"... because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don't know we don't know."
 
-Complexity has phase boundaries just like physics
-
+    (Donald Rumsfeld)
+    
 ---
 
 # When stuff is obvious or well understood
