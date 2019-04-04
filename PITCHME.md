@@ -52,18 +52,9 @@ Note:
 
 ---
 
-# We must invest some time and effort in managing the complexity that comes from these confounding variables
-### Thankfully we do
+"... because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don't know we don't know."
+    (Donald Rumsfeld)
 
----
-
-# Retros
-
----
-
-@snap[north-east span-20]
-@quote[... because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don't know we don't know.](Donald Rumsfeld)
-@snapend
 
 ---
 
@@ -91,10 +82,36 @@ Complexity has phase boundaries just like physics
 
 We all have a home, where we feel most comfortable.
 
-Obvious - Practitioners
-Complex - Experts
-Complicated - Experimenters
-Chaotic - Intuition based
+---
+
+# When stuff is obvious or well understood
+### Practitioners
+ - What type of problem is it
+ - Apply the best practice
+
+---
+
+# When things are difficult
+### Experts
+ - Analyze the problem
+ - Implement a solution
+
+---
+
+#  When things are poorly understood ?
+### Experimenters
+ - Conduct a test
+ - Check the results
+ - continue or halt
+
+Note:
+  - Deming Cycle
+  - Rememeber that experiments are guided by expertise and prior knowledge
+
+--
+
+# When things are just weird
+Intuition based
 
 ---
 
@@ -104,8 +121,18 @@ We will tend to interpret things as being in that zone.
 
     It's a TRAP!
 
-Notes:
+Note:
  - insert mental image of Admiral Ackbar here :)
+
+---
+
+### We must invest some time and effort in managing the complexity that comes from these confounding variables
+#### Thankfully we do
+
+---
+
+# Retros
+
 ---
 
 Things can move or be moved between the different types of complexity
@@ -114,6 +141,14 @@ Note:
   - Handling emergency situations by simplifying them so that they can be reasoned about 
   - Shuttering
   - Pushing yourself into a chaotic situation to enable innovation
+  - Spikes
+  - Training
+  - Splitting the problem
+
+---
+So ... We have a choice.  We can attempt to deal with the complexity
+
+or we can try to move the problem into another type of complexity
 
 ---
 
@@ -122,4 +157,6 @@ Note:
  - You and your team are best placed to understand what is needed
  - Testing ideas can help
  - Use your retros!
+ - Experts can help you but ...
+ - ... sometimes experiments can be better 
  - Your Scrum Masters are experts in this stuff
