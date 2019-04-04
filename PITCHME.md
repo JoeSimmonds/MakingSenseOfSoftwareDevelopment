@@ -5,7 +5,7 @@
 ---
 
 ### Build the right thing 
-#&
+# &
 ### Build it right
 
 
@@ -47,7 +47,7 @@ Note:
 
 ---
 
-# It would all be fine if it wasn't for all of these other developers
+# It would all be fine if it wasn't for all of these pesky developers
 
 ---
 
@@ -102,7 +102,7 @@ We will tend to interpret things as being in that zone.
     - People comfortable with a certain way of tackling problem will tend to believe that their current situation is amenable to that technique
 
     It's a TRAP!
-    
+
 ---
 
 Things can move or be moved between the different types of complexity
