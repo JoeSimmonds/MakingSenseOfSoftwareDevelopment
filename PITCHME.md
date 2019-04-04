@@ -104,10 +104,6 @@ We all have a home, where we feel most comfortable.
  - Check the results
  - continue or halt
 
-Note:
-  - Deming Cycle
-  - Rememeber that experiments are guided by expertise and prior knowledge
-
 --
 
 # When things are just weird
@@ -121,9 +117,6 @@ We will tend to interpret things as being in that zone.
 
     It's a TRAP!
 
-Note:
- - insert mental image of Admiral Ackbar here :)
-
 ---
 
 ### We must invest some time and effort in managing the complexity that comes from these confounding variables
@@ -131,13 +124,12 @@ Note:
 
 ---
 
-# Retros
+# Retros !
 
 ---
 
 Things can move or be moved between the different types of complexity
 
-Note:
   - Handling emergency situations by simplifying them so that they can be reasoned about 
   - Shuttering
   - Pushing yourself into a chaotic situation to enable innovation
@@ -146,6 +138,7 @@ Note:
   - Splitting the problem
 
 ---
+
 So ... We have a choice.  We can attempt to deal with the complexity
 
 or we can try to move the problem into another type of complexity
