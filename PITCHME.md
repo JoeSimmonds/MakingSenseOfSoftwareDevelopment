@@ -113,9 +113,9 @@ Intuition based
 
 We will tend to interpret things as being in that zone.
 
-    - People comfortable with a certain way of tackling problem will tend to believe that their current situation is amenable to that technique
+People comfortable with a certain way of tackling problem will tend to believe that their current situation is amenable to that technique
 
-    It's a TRAP!
+#### It's a TRAP!
 
 ---
 
